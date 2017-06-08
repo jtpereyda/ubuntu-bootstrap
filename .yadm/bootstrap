@@ -1,0 +1,9 @@
+#!/bin/sh
+## Ubuntu Pakages
+apt-get update && sudo apt-get upgrade
+### Dev environment
+apt-get install git tmux vim
+### Dev tools
+apt-get install python-pip python-dev cmake
+### Python
+pip install --upgrade pip
