@@ -1,0 +1,19 @@
+[ui]
+username=root
+merge = vimdiff
+
+[extensions]
+guestrepo=
+shelve=
+record=
+color=
+rebase=
+graphlog=
+strip=
+hgext.extdiff=
+hgext.convert=
+mq =
+purge=
+
+[extdiff]
+cmd.vimdiff=
